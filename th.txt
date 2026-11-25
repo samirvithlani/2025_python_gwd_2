@@ -1,0 +1,91 @@
+variable: ... is container which can hold the values
+
+PYTHON:
+
+use:
+1)web application
+2)Data science [ai,ml,gen ai]
+3)desktop app
+4)robotics
+
+programming language:
+1)statically typed programing lang
+	when we declare variables we  have to specify data type it is called
+	statically typed p. languagae...
+	c,cpp,java...
+
+2)dynamically typed programing lang
+	when we declare variables we dont  have to specify data type it is called
+	statically typed p. languagae...
+	python,js,php
+
+	compiler:
+
+scripting language / programming lang:
+
+js,python,php
+c,cpp,java,.net...
+
+------>
+compiler / interpreter
+
+
+file --> .c .java . py
+
+----->
+
+python install ...
+vs code
+
+
+type cast:
+change 1 data type to  other:
+
+implicit typecasting: compiler will do it:
+	int a =10.90;
+	print(a)  10
+
+explicit typecasting:
+
+float a = float(100)
+100.00
+
+narrow typecasting:
+	big value try to fix in small data type:
+	int x = int(90.90)
+broad typecasting
+	float f = float(100)
+
+
+
+if input dt is int --> only int
+if input is float ---> float,int
+
+string ---> "10" "90.0" "False" ""
+
+>--------------------------------->
+operators:
+operators are the special symbols which is used to perfom operations on operands
+
+
+type of operators:
+unery operators:
+	it requires only 1 operands:
+	++a , a++
+binery operators
+	it requires min 2 operands
+	c = a + b
+ternery operators
+	it requires min 3 operands:
+
+
+python does not have unery as well ternery operators:
+
+type of operators:
+arithmatic operators: + , - , * ,/,% , //,**
+relational op: <,>,<=,>=,==,!=,
+logical operators: and or not
+asignment operators: = , +=, -=,..
+
+membership op : in, not in
+identity op : is ,is not
